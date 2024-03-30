@@ -1,7 +1,7 @@
 import './App.css'
-import UnpadingNestedObject from './components/UpadingNestedObject'
-import UpdatingAnArray from './components/UpdatingAnArray'
-import UpdatingAnArrayOfObject from './components/UpdatingAnArrayOfObject'
+import UnpadingNestedObject from './components/arrayandobjects/UpadingNestedObject'
+import UpdatingAnArray from './components/arrayandobjects/UpdatingAnArray'
+import UpdatingAnArrayOfObject from './components/arrayandobjects/UpdatingAnArrayOfObject'
 import UseStateLearning from './components/UseStateLearning'
 
 function App() {
